@@ -1,2 +1,2 @@
-I started learning powerBi through utmost sincerity and got help by tutedude website and youtube.
-This is the very first assignment created by me.
+I Started learning PowerBI with the help of Tutedude Website.
+The first Project done by me in PowerBI is Comapany Data Analysis on 05/02/2025
